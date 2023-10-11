@@ -1,2 +1,3 @@
 # Heart-Attack-Prediction
-Heart attack prediction
+
+Comprehensive notebook for predicting inclination for heart attack
