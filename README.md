@@ -1,5 +1,5 @@
 
-# DSA 6100: Heart Attack Prediction Using Advanced Statistical Methods
+# Heart Attack Prediction Using Advanced Statistical Methods
 
 ## Authors: Jaideep Siva, Senthil
 
