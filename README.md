@@ -3,7 +3,7 @@
 
 ## Authors: Jaideep Siva, Senthil
 
-This Jupyter Notebook is an extensive analysis and application of advanced statistical methods to predict heart attacks. It is a part of the DSA 6100 course and is meticulously crafted to showcase a deep understanding of statistical analysis, data preprocessing, and machine learning model application in the medical field.
+This Jupyter Notebook is an extensive analysis and application of advanced statistical methods to predict heart attacks. This is a meticulously crafted ipynb to showcase a deep understanding of statistical analysis, data preprocessing, and machine learning model application in the medical field.
 
 ## Project Overview
 
@@ -13,7 +13,7 @@ The project aims to utilize a dataset containing various medical parameters to p
 
 ### Understanding Heart Attacks
 
-An introductory section providing a comprehensive overview of heart attacks, including definitions, risk factors, and their significance. This section sets the stage for the importance of predictive modeling in healthcare.
+An introductory section provides a comprehensive overview of heart attacks, including definitions, risk factors, and their significance. This section sets the stage for the importance of predictive modeling in healthcare.
 
 ### Dataset and Variables
 
@@ -55,4 +55,4 @@ Lists the sources and references used throughout the project, ensuring the credi
 
 ---
 
-This README is designed to provide a clear, engaging introduction to the "DSA 6100: Heart Attack Prediction Using Advanced Statistical Methods" project, demonstrating the depth of analysis and sophistication of the methodologies employed. It serves as an excellent overview for potential employers or academic peers to understand the project's scope, approach, and outcomes.
+
